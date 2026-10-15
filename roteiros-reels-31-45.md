@@ -95,10 +95,11 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 31. Lista: 3 exercícios para artrose de joelho · Tipo 7
 
-**Videomaker · cerca de 1 min 50 s** · Texto de abertura na tela: **"3 exercícios que eu passo pra quase todo paciente com artrose no joelho"**
+**Videomaker · cerca de 1 min 50 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Três exercícios, uma cadeira, dez minutos. Pro joelho com artrose. | Z | Na tela: **3 exercícios para artrose no joelho** | Abertura: Cadeira no meio da sala, número 1 na tela |
 | S | Segunda, sete da manhã. Você abre um vídeo de exercício pro joelho, vê uma lista de quinze movimentos e fecha na hora. | Z | | Apoio: celular rolando lista longa |
 | P | Exercício virou aquela coisa que você sabe que devia fazer. E o joelho continua reclamando na escada. | N | | |
 | O | "Que preguiça. Se for pra ser chato, eu nem começo." | Z | | |
@@ -121,11 +122,12 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 32. Mito x verdade: estalo é desgaste? · Joelho · Tipo 5
 
-**Curto · cerca de 40 s** · Texto na tela no 1º segundo: **"Joelho estalando = desgaste?"**
+**Curto · cerca de 40 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Você agacha pra pegar a sacola e o joelho estala. Alto. Todo mundo na cozinha olha. | Z | | Apoio: agachamento com sacola |
+| G | Joelho estalando é desgaste? Na maioria das vezes, não. | Z | Na tela: **Joelho estalando = desgaste?** | Abertura: Agachamento com o som do estalo |
+| S | Você agacha pra pegar a sacola e o joelho estala alto. | Z | | Apoio: agachamento com sacola |
 | P | Pronto: agora você evita agachar. | N | | |
 | O | E pensa: "deve ser desgaste. Mas antes quero entender que barulho é esse". | N | | |
 | A | Boa. | Z | | |
@@ -141,12 +143,13 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 33. Mito x verdade: hérnia sempre opera? · Lombar · Tipo 6
 
-**Dinâmico · cerca de 70 s** · Texto na tela: **"Hérnia de disco = cirurgia?"**
+**Dinâmico · cerca de 70 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | O médico olha a ressonância e fala: "é hérnia de disco". Você sai do consultório com uma palavra na cabeça: cirurgia. | Z | | Apoio: ressonância na tela |
-| P | A dor desce pela perna, sentar no carro virou tortura, e agora tem o medo junto. | N | | Pacote 11 |
+| G | Dois em cada três casos de hérnia lombar foram reabsorvidos pelo próprio corpo. | Z | Na tela: **Hérnia = cirurgia?** | Abertura: Ressonância na tela |
+| S | O médico olha a ressonância: "é hérnia de disco". Você sai pensando: cirurgia. | Z | | Apoio: ressonância na tela |
+| P | A dor desce pela perna, e agora tem o medo junto. | N | | Pacote 11 |
 | O | "Se é hérnia, vou ter que operar. Então nem quero mexer nisso." | Z | | |
 | A | O medo é compreensível. Cirurgia assusta. | N | | |
 | T | Os estudos mostram: numa análise de 11 estudos, cerca de dois em cada três casos de hérnia lombar foram reabsorvidos pelo próprio corpo, com tratamento sem cirurgia. | N | Hérnia / *pode reabsorver* | Cartão: Zhong 2017 |
@@ -165,10 +168,11 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 34. Lista: 5 sinais de que a dor nas costas não pode esperar · Lombar · Tipo 8
 
-**Videomaker · cerca de 1 min 45 s** · Texto de abertura: **"5 sinais de que a dor nas costas não pode esperar"**
+**Videomaker · cerca de 1 min 45 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Cinco sinais de que a dor nas costas não pode esperar. | Z | Na tela: **5 sinais de alerta** | Abertura: Médico levantando cinco dedos |
 | S | Você é de não parar. Travou a coluna levantando o pneu do carro, tomou um remédio e foi trabalhar. | Z | | Apoio: pneu sendo levantado |
 | P | Faz dez dias. A dor continua, desce pra perna, e você vai empurrando. | N | | |
 | O | "Dor nas costas todo mundo tem. Eu aguento." | Z | | |
@@ -191,10 +195,11 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 35. Laudo traduzido: ressonância do joelho · Tipo 5
 
-**Dinâmico · cerca de 70 s** · Texto na tela: **"Traduzindo o laudo do seu joelho"**
+**Dinâmico · cerca de 70 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Condropatia patelar grau 2. Traduzo em trinta segundos. | Z | Na tela: **Traduzindo o seu laudo** | Abertura: Laudo fictício com marca-texto |
 | S | Você recebe o laudo do joelho e lê: "condropatia patelar grau 2, menisco com sinais degenerativos, pequeno derrame articular". | Z | | Apoio: laudo (fictício) na tela |
 | P | Parece grego. E o grego parece grave. | N | | |
 | O | Você abre dez abas no Google e pensa: "preciso entender cada palavra antes de decidir qualquer coisa". | N | | |
@@ -214,14 +219,15 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 36. Teste em casa: levantar da cadeira 5 vezes · Quadril · Tipo 3
 
-**Curto · cerca de 40 s** · Texto na tela: **"Teste de 30 segundos para as suas pernas"**
+**Curto · cerca de 40 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Pega uma cadeira sem braço. Leva trinta segundos. | Z | | Apoio: cadeira |
+| G | Levanta e senta cinco vezes. O tempo diz muito sobre as suas pernas. | Z | Na tela: **Teste de 30 segundos** | Abertura: Cronômetro na tela e cadeira |
+| S | Pega uma cadeira sem braço. | Z | | Apoio: cadeira |
 | O | "Não tenho tempo pra ficar me testando." | N | | |
-| A | São trinta segundos. E dizem muito. | N | Cinco vezes / *trinta segundos* | |
-| D | Braços cruzados no peito. Levanta e senta cinco vezes, o mais rápido que conseguir com segurança. Se tiver medo de cair, faz com alguém por perto. | N | | Apoio: teste sendo feito |
+| A | São trinta segundos. | N | Cinco vezes / *trinta segundos* | |
+| D | Braços cruzados no peito, o mais rápido que conseguir com segurança. Se tiver medo de cair, faz com alguém por perto. | N | | Apoio: teste sendo feito |
 | P/I | Precisou das mãos, desequilibrou ou o quadril doeu? É sinal de que a força das pernas tá abaixo do que deveria. | Z | | Pacote 08 |
 | N | Melhor descobrir isso numa cadeira do que numa escada, não é? | N | | |
 | T | Uma avaliação converte esse teste num plano de força e de controle da dor. | N | | |
@@ -234,14 +240,15 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 37. Teste em casa: a mão nas costas · Ombro · Tipo 9
 
-**Curto · cerca de 40 s** · Texto na tela: **"Sua mão chega até aqui?"**
+**Curto · cerca de 40 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Na hora de fechar o sutiã ou pôr a carteira no bolso de trás, o braço não chega. | Z | | |
-| P | Você dá um jeito: fecha na frente e gira, ou passa a carteira pro bolso da frente. | N | | |
+| G | Sua mão chega até aqui nas costas? Testa agora. | Z | Na tela: **Sua mão chega até aqui?** | Abertura: Médico demonstrando o teste |
+| S | Fechar o sutiã ou pôr a carteira no bolso de trás: o braço não chega. | Z | | |
+| P | Você dá um jeito: fecha na frente e gira, ou troca de bolso. | N | | |
 | O | "Tá bom assim, eu me viro." | N | | |
-| D | Faz o teste: leva a mão pelas costas, subindo pela coluna, dos dois lados. Compara. | N | | Apoio: teste dos dois lados |
+| D | Leva a mão pelas costas, subindo pela coluna, dos dois lados. Compara. | N | | Apoio: teste dos dois lados |
 | I | Se um lado chega bem mais baixo, ou dói, o ombro já tá perdendo movimento. | Z | Jeitinho / *não devolve movimento* | Pacote 02 |
 | N | Não vale cuidar disso enquanto ainda é só um jeitinho? | N | | |
 | T | Uma avaliação mostra se é tendão ou cápsula, e o que fazer. | N | | |
@@ -254,10 +261,11 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 38. "Se fosse o meu joelho" · Joelho · Tipo 1
 
-**Dinâmico · cerca de 70 s** · Texto na tela: **"O que eu faria se fosse o MEU joelho com artrose"**
+**Dinâmico · cerca de 70 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Se fosse o meu joelho com artrose, eu faria nesta ordem. | Z | Na tela: **Se fosse o MEU joelho** | Abertura: Médico apontando pro próprio joelho |
 | S | Churrasco de sábado, e um amigo pergunta: "se fosse o seu joelho, o que você faria?" | Z | | |
 | P | Ele conta que já tentou de tudo um pouco: pomada, colágeno, chá, joelheira. E o joelho continua igual. | N | | |
 | O | Ele só quer o caminho certo: "quero fazer o que funciona, na ordem certa". | N | | |
@@ -276,10 +284,11 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 39. Bastidores: como é a sessão de ondas de choque · Ombro · Tipo 6
 
-**Dinâmico · cerca de 70 s** · Texto na tela: **"Como é, de verdade, uma sessão de ondas de choque"**
+**Dinâmico · cerca de 70 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | "Dói?" Te mostro uma sessão de ondas de choque do começo ao fim. | Z | Na tela: **Ondas de choque: dói?** | Abertura: Aparelho ligando, com o som |
 | S | Primeira sessão de ondas de choque, e a primeira pergunta é sempre a mesma: "dói?" | Z | | |
 | P | Faz meses que o ombro dói pra pegar qualquer coisa no alto. E agora tem o medo do aparelho. | N | | |
 | O | "E se doer muito? E se piorar?" | Z | | |
@@ -299,11 +308,12 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 40. Bastidores: como é a sessão de neuroacupuntura · Lombar · Tipo 2
 
-**Curto · cerca de 45 s** · Texto na tela: **"40 minutos que são só seus"**
+**Curto · cerca de 45 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Quarta à tarde. Você deita na maca e, pela primeira vez na semana, ninguém precisa de você por quarenta minutos. | Z | | Apoio: maca, luz baixa |
+| G | Quarenta minutos em que ninguém precisa de você. | Z | Na tela: **40 minutos que são só seus** | Abertura: Agulha sendo colocada, em close |
+| S | Quarta à tarde, você deita na maca. | Z | | Apoio: maca, luz baixa |
 | P | A lombar, que segurou a casa inteira, finalmente para. | N | | Pacote 11 |
 | O | "Tempo pra mim? Tenho tanta coisa pra fazer." | N | | |
 | T | Na neuroacupuntura, agulhas finíssimas vão em pontos ligados aos nervos e músculos que doem. A maioria sente só uma pressão leve. | N | Quarenta minutos / *seus* | Apoio: agulhas sendo colocadas |
@@ -319,10 +329,11 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 41. Lado a lado: corticoide x PRP no ombro · Tipo 1
 
-**Dinâmico · cerca de 70 s** · Texto na tela: **"Corticoide ou PRP? A diferença"**
+**Dinâmico · cerca de 70 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Corticoide ou PRP no ombro? Um age antes. O outro, depois. | Z | Na tela: **Corticoide x PRP** | Abertura: Tela dividida com os dois nomes |
 | S | O ombro dói faz meses, e na consulta aparecem duas palavras: corticoide ou PRP. | Z | | |
 | P | E agora você precisa escolher, sem saber a diferença. | N | | |
 | O | "Quero a opção certa, com base em estudo, e não em achismo." | Z | | |
@@ -343,15 +354,16 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 42. Resposta a comentário: "bico de papagaio tem cura?" · Cervical · Tipo 4
 
-**Curto · cerca de 45 s** · Na tela: o comentário do seguidor como figurinha de resposta
+**Curto · cerca de 45 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Pergunta que chegou aqui: "doutor, bico de papagaio tem cura?" | Z | | Figurinha do comentário |
-| P | Geralmente quem pergunta viu a palavra no raio X e ficou com medo de mexer o pescoço. | N | | |
-| O | E sente que o seu é diferente: "o meu é dos grandes". | N | | |
+| G | Bico de papagaio é muito comum. E muitas vezes não é o culpado. | Z | Na tela: **"Bico de papagaio tem cura?"** | Abertura: Figurinha do comentário sobre o raio X |
+| S | Pergunta que chegou: "doutor, bico de papagaio tem cura?" | Z | | Figurinha do comentário |
+| P | Quem pergunta geralmente viu isso no raio X e ficou com medo de mexer o pescoço. | N | | |
+| O | Sente que o seu é diferente: "o meu é dos grandes". | N | | |
 | A | A sua dor é real. | N | | |
-| T | Bico de papagaio é o osso formando uma pontinha na borda da vértebra. É comum com a idade, e muitos adultos têm sem sentir nada. | Z | Bico de papagaio / *nem sempre é o culpado* | Pacote 10 |
+| T | Bico de papagaio é o osso formando uma pontinha na borda da vértebra. Muitos adultos têm sem sentir nada. | Z | Bico de papagaio / *nem sempre é o culpado* | Pacote 10 |
 | I | O problema é pôr toda a culpa nele e esquecer músculo, nervo e sono. | N | | |
 | N | Não vale descobrir o que dói de verdade? | Z | | |
 | C | Manda pra quem se assustou com o raio X. | N | | Cartão final |
@@ -363,10 +375,11 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 43. POV: o pescoço de quem trabalha no computador · Cervical · Tipo 3
 
-**Dinâmico · cerca de 65 s** · Texto na tela: **"POV: você tem 45 anos, passa 9 horas no computador e acha que dor no pescoço é normal"**
+**Dinâmico · cerca de 65 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Três da tarde e a nuca já pesa? | Z | Na tela: **POV: 9 horas no computador** | Abertura: Mão na nuca diante da tela |
 | S | Três da tarde, a nuca pesa. Seis da tarde, chega a dor de cabeça. | Z | | Apoio: pessoa no computador |
 | P | No fim de semana você descansa. Na segunda, começa tudo de novo. | N | | |
 | O | "Não tenho tempo de tratar. É só o preço do trabalho." | Z | | |
@@ -384,10 +397,11 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 44. Lista: 3 erros que pioram a dor no quadril · Tipo 7
 
-**Videomaker · cerca de 1 min 45 s** · Texto de abertura: **"3 erros que pioram a dor no quadril (o 3º quase todo mundo comete)"**
+**Videomaker · cerca de 1 min 45 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | O seu sofá pode estar piorando a dor no quadril. | Z | Na tela: **3 erros que pioram o quadril** | Abertura: Pessoa afundando no sofá baixo |
 | S | Domingo à tarde. Você afunda no sofá baixo e fica ali duas horas vendo série. | Z | | Apoio: sofá afundado |
 | P | Quando levanta, o quadril trava. Os primeiros passos até a cozinha saem mancando. | N | | |
 | O | "Ah, é o meu momento de relaxar. Não vou ficar pensando em quadril." | Z | | |
@@ -408,11 +422,12 @@ A estrutura dos roteiros continua a mesma: **storytelling + SPIN Selling + obje�
 
 ## 45. Mito x verdade: "perder peso não adianta mais" · Joelho · Tipo 9
 
-**Dinâmico · cerca de 70 s** · Texto na tela: **"Mito: com o joelho já gasto, perder peso não adianta"**
+**Dinâmico · cerca de 70 s**
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Na consulta de rotina, alguém fala de perder peso pra ajudar o joelho. E você pensa: "agora? O estrago já tá feito". | Z | | |
+| G | "O estrago já tá feito, perder peso não adianta." Mito. | Z | Na tela: **Mito: perder peso não adianta** | Abertura: Pessoa parando no meio da escada |
+| S | Na consulta, alguém fala de perder peso pelo joelho. E você pensa: "agora?" | Z | | |
 | P | O joelho dói há anos, a balança subiu junto, e mexer nisso parece briga demais. | N | | |
 | O | "Deixa quieto. Perder peso agora não muda nada." | Z | | |
 | A | Entendo o cansaço. Mudar mexe com muita coisa. | N | | |

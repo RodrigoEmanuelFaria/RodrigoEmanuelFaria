@@ -47,8 +47,9 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Sábado no shopping. Você vê seu reflexo na vitrine e leva um susto: tá mancando. | Z | | Apoio: reflexo em vitrine |
-| P | Faz tempo. Você nem percebia mais. O corpo foi dando um jeitinho. | N | | |
+| G | Você manca e não percebe. A vitrine percebeu. | Z | Na tela: **O teste da vitrine** | Abertura: Reflexo mancando na vitrine |
+| S | Sábado no shopping, o reflexo na vitrine: você tá mancando. | Z | | Apoio: reflexo em vitrine |
+| P | Faz tempo. O corpo foi dando um jeitinho. | N | | |
 | O | E você pensa: "tá bom assim, eu vou levando". | N | | |
 | I | Só que o jeitinho cobra de outro lugar. A carga vai pro outro joelho, pro quadril, pra lombar. Uma dor vira duas. | Z | Uma dor / *vira duas* | Pacote 05 |
 | N | Não vale cuidar de um joelho só, enquanto ainda é um só? | N | | |
@@ -67,6 +68,7 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Quantos anti-inflamatórios você tomou essa semana? Conta comigo. | Z | Na tela: **O remédio da gaveta** | Abertura: Cartelas saindo da gaveta da cozinha |
 | S | Sete da manhã. Antes do café, você abre a gaveta da cozinha e toma o anti-inflamatório. Como ontem. Como anteontem. | Z | | Apoio: gaveta com cartelas |
 | P | A lombar dói desde cedo, e o comprimido virou rotina, que nem escovar os dentes. | N | | |
 | O | "Eu resolvo do meu jeito. Não preciso de médico pra dor nas costas." | Z | | |
@@ -89,6 +91,7 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | A dor no joelho mexe no seu equilíbrio. E isso tem estudo. | Z | Na tela: **Dor e risco de cair** | Abertura: Pé hesitando na calçada molhada, sem queda |
 | S | Calçada de pedra, garoa de Curitiba. Você caminha olhando pro chão, escolhendo cada pedra. | Z | | Apoio: calçada molhada, passos lentos |
 | S | O joelho já falhou uma vez, naquele degrau da padaria. Você não caiu. Mas o susto ficou. | N | | |
 | P | Desde então, sair sozinho virou um cálculo. Você evita a calçada molhada, o ônibus cheio, a feira de domingo. | N | | |
@@ -115,6 +118,7 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Poupar demais o ombro que dói pode endurecer ele. | Z | Na tela: **Poupar o ombro piora?** | Abertura: Braço parando a caminho da prateleira |
 | S | Reunião começando. Você vai pegar a pasta na prateleira de cima e o ombro trava no meio do caminho. | Z | | Apoio: braço parando na prateleira |
 | P | Você troca de braço e segue. Faz meses que esse ombro só trabalha abaixo do peito. | N | | |
 | O | "Não tenho tempo pra isso agora." | Z | | |
@@ -135,6 +139,7 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Mão formigando pode ser problema no pescoço. | Z | Na tela: **Formigamento que vem do pescoço** | Abertura: Caneca escorregando da mão |
 | S | Fim de tarde no computador. Você percebe a mão formigando de novo, como se a dor descesse do pescoço até os dedos. | Z | | Apoio: mão no mouse |
 | P | É a terceira vez na semana. Ontem a caneca quase escorregou. | N | | |
 | O | Você lê três artigos e pensa: "deve ser postura. Quero entender melhor antes de ir ao médico". | N | | |
@@ -157,8 +162,9 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Você lembra direitinho: foi carregando uma caixa na mudança, há três anos. | Z | | Apoio: caixas de mudança |
-| P | A dor era pra passar em semanas. Mas ficou. Hoje dói até sentado, até em dia que você nem fez esforço. | N | | Pacote 11 |
+| G | A lesão sarou. A dor ficou. Isso tem explicação. | Z | Na tela: **A lesão sarou. A dor ficou.** | Abertura: Caixa de mudança no chão |
+| S | Foi carregando uma caixa na mudança, há três anos. | Z | | Apoio: caixas de mudança |
+| P | Era pra passar em semanas. Ficou. Hoje dói até sentado. | N | | Pacote 11 |
 | O | "Eu fiz tudo certo: repouso, remédio, compressa. Se não passou, é porque não tem jeito." | Z | | |
 | A | Você fez o que sabia. Faltou alguém te contar o resto. | N | | |
 | T | Quando a dor dura muito, o sistema nervoso pode aprender a dor. Ele aumenta o volume, como um alarme sensível demais, que toca até com vento. | N | Alarme / *sensível demais* | Pacote 03 |
@@ -179,6 +185,7 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | "Hoje não dá." Quantas vezes você mandou isso esse mês? | Z | Na tela: **A dor que isola** | Abertura: Polegar digitando e apagando a mensagem |
 | S | Sexta à noite. O grupo da família manda mensagem: "vem pro churrasco?" | Z | | Apoio: celular com a mensagem |
 | S | Você digita "hoje não dá", apaga, digita de novo, e manda. | N | | |
 | P | Preguiça nenhuma. É o joelho, que depois de uma hora em pé já lateja. É ter que explicar de novo por que não vai. | N | | |
@@ -205,6 +212,7 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Cada "dessa vez eu passo" cobra do seu quadril. | Z | Na tela: **"Dessa vez eu passo"** | Abertura: Convite no celular sendo recusado |
 | S | Convite pra trilha no fim de semana. Você adorava. Agora responde: "dessa vez eu passo". | Z | | Apoio: trilha, grupo caminhando |
 | P | O quadril dói, você anda menos, ganha uns quilos, e o quadril dói mais. | N | | |
 | O | "Depois eu volto. Agora eu quero curtir sem dor." | N | | |
@@ -225,6 +233,7 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Você esconde a dor. A sua família percebe mesmo assim. | Z | Na tela: **A dor que você esconde** | Abertura: Lábio mordido ao pegar a travessa no alto |
 | S | Domingo, almoço na sua casa. Você cozinhou pra todo mundo, como sempre. | Z | | Apoio: mesa posta, família |
 | P | Na hora de pegar a travessa no armário de cima, a dor no ombro vem tão forte que você morde o lábio. E ninguém percebe, porque você não deixa. | N | | |
 | P | À noite, o ombro lateja e o sono não vem. No dia seguinte, a paciência acaba cedo. | N | | Pacote 06 |
@@ -247,6 +256,7 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Esperar o joelho piorar pra tratar pode fechar opções. | Z | Na tela: **Esperar a hora certa?** | Abertura: Joelho inchado com bolsa de gelo |
 | S | Você lembra da primeira vez que o joelho inchou. Foi depois daquela pelada, há cinco anos. | Z | | Apoio: campo de várzea |
 | P | Desde então, ele vai e volta. Melhora, piora, e cada vez demora mais pra melhorar. | N | | |
 | O | "Quando ficar ruim de verdade, eu trato. Não quero fazer nada antes da hora." | Z | | |
@@ -270,7 +280,8 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Três da tarde, a dor de cabeça subindo da nuca. Você abre a bolsa e toma o analgésico. O quinto da semana. | Z | | Apoio: cartela na bolsa |
+| G | Analgésico demais pode dar mais dor de cabeça. | Z | Na tela: **Remédio que vira dor** | Abertura: Mão segurando o quinto comprimido da semana |
+| S | Três da tarde. Você abre a bolsa e toma o analgésico. O quinto da semana. | Z | | Apoio: cartela na bolsa |
 | P | Funciona por umas horas. Depois volta. | N | | |
 | O | "Deixa, eu vou levando com o comprimido." | N | | |
 | I | Analgésico quase todo dia pode, com o tempo, deixar a dor de cabeça mais frequente. É a dor de cabeça por uso excessivo de remédio. | Z | Remédio demais / *mais dor de cabeça* | Pacote 47 |
@@ -290,6 +301,7 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Mexer gasta o joelho? A cartilagem discorda. | Z | Na tela: **Exercício gasta o joelho?** | Abertura: Vizinho correndo, visto da janela |
 | S | Seu vizinho passa correndo de manhã. Você, da janela, pensa: "eu não, isso gasta o joelho". | Z | | Apoio: corredor na rua |
 | P | Então o joelho ficou em casa. Do sofá pra cozinha, da cozinha pro carro. E mesmo assim ele dói. | N | | |
 | O | "Se eu me mexer mais, vou desgastar o que ainda resta." | Z | | |
@@ -312,6 +324,7 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Até 84% das pessoas de 80 anos têm abaulamento de disco. Sem dor nenhuma. | Z | Na tela: **Seu laudo te assustou?** | Abertura: Celular com o laudo aberto |
 | S | Você abre o resultado da ressonância no celular, ainda no estacionamento do laboratório. | Z | | Apoio: celular com laudo |
 | S | Lê devagar: "desidratação discal", "abaulamento", "protrusão". | N | | |
 | P | E o coração dispara. Parece sentença. Naquela noite, você nem quer se abaixar pra pegar o chinelo. | N | | |
@@ -338,6 +351,7 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Meses tratando o quadril. E se a dor vier da lombar? | Z | Na tela: **Onde dói x onde nasce** | Abertura: Pomada sendo passada no quadril |
 | S | Você tá tratando o quadril faz meses. Pomada, compressa, até trocou o colchão. | Z | | Apoio: pomada, colchão |
 | P | E a dor continua ali, na lateral, descendo pela coxa. | N | | |
 | O | "Não tenho tempo pra ficar indo a médico. Eu sei onde dói." | Z | | |
@@ -360,12 +374,13 @@ Dr. Rodrigo Faria · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Seis da manhã, você de pé pra fazer o café de todo mundo. | Z | | Apoio: mãos na cafeteira |
-| P | Os dedos tão duros e levam quase uma hora pra soltar. E agora o punho também. | N | | Pacote 39 |
-| O | "Não vou incomodar médico por uma dorzinha. Tem gente precisando mais." | N | | |
+| G | Mão dura de manhã por mais de meia hora? Isso se investiga. | Z | Na tela: **Rigidez de manhã: alerta** | Abertura: Dedos tentando abrir, devagar |
+| S | Seis da manhã, o café de todo mundo pra fazer. | Z | | Apoio: mãos na cafeteira |
+| P | Os dedos levam quase uma hora pra soltar. E agora o punho também. | N | | Pacote 39 |
+| O | "Não vou incomodar médico por uma dorzinha." | N | | |
 | I | Rigidez de manhã que passa de meia hora, em várias articulações, pode ser inflamação, como artrite. E ela costuma responder melhor quando tratada cedo. | Z | Mais de 30 minutos / *merece investigação* | |
 | N | Você não merece o cuidado que dá pra todo mundo? | N | | |
-| D | Amanhã, anota quanto tempo os dedos levam pra soltar. | N | | |
+| D | Amanhã, cronometra os dedos soltando. | N | | |
 | T | Na avaliação, a gente investiga e, se precisar, encaminha pro reumatologista. | N | | |
 | C | Manda pra quem acha que mão dura de manhã é bobagem. | Z | | Cartão final |
 

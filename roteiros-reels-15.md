@@ -76,8 +76,9 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Sábado de manhã. A família desce pra feira e você grita lá de cima: "vão indo, que eu já vou". | Z | | Apoio: escada de prédio |
-| P | E você vai. De lado, agarrado no corrimão, um degrau de cada vez. | N | | Apoio: pé hesitando no degrau |
+| G | Na escada, a perna que dói desce primeiro. Quase todo mundo faz o contrário. | Z | Na tela: **Você desce a escada errado?** | Abertura: Close no pé hesitando no degrau |
+| S | Sábado. A família desce pra feira e você grita: "vão indo, que eu já vou". | Z | | Apoio: escada de prédio |
+| P | E vai. De lado, agarrado no corrimão. | N | | Apoio: pé hesitando no degrau |
 | O | Pra si mesmo, repete: "é a idade, eu vou levando". | N | | |
 | I | Só que, de sábado em sábado, esse "vão indo" tá virando "vão sem mim". | Z | Vão indo / *vão sem mim* | Pacote 40 |
 | N | Quanto vale descer junto, conversando, sem pensar no joelho? | N | | |
@@ -97,6 +98,7 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | O jeito que você calça o sapato entrega o seu quadril. | Z | Na tela: **Seu quadril em um gesto** | Abertura: Pé esticado longe, mão sem alcançar o cadarço |
 | S | Seis e meia da manhã. Você senta na beira da cama pra calçar o sapato e já sabe o que vem. | Z | | Apoio: pés na beira da cama |
 | P | O pé fica lá longe. A mão não alcança o cadarço. Você prende a respiração, tenta de novo, e desiste. | N | | |
 | P | O tênis foi trocado por um sapato sem cadarço. E a meia, às vezes, precisa de ajuda. | N | | Apoio: mocassim |
@@ -120,6 +122,7 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Ele correu pra você. E você abriu um braço só. | Z | Na tela: **O abraço pela metade** | Abertura: Criança correndo em câmera lenta, um braço só abrindo |
 | S | Fim de tarde. O portão abre e o seu neto vem correndo, de braços abertos, gritando o seu nome. | Z | | Apoio: criança correndo |
 | S | É o melhor momento do dia. | N | | |
 | P | E é justo nele que o ombro avisa. Você abaixa um braço só, pega a criança de lado, meio torto, e disfarça a careta. | N | | |
@@ -148,8 +151,9 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Domingo, sala cheia, as crianças montando um castelo de almofadas no tapete. | Z | | Apoio: crianças no tapete |
-| P | Te chamam pra brincar. E você fica no sofá, porque descer até vai. O problema é levantar. | N | | |
+| G | Descer até o tapete é fácil. O drama é levantar. | Z | Na tela: **Lombar: o teste do tapete** | Abertura: Adulto se apoiando no sofá pra levantar do chão |
+| S | Domingo, crianças montando um castelo de almofadas no tapete. | Z | | Apoio: crianças no tapete |
+| P | Te chamam pra brincar. E você fica no sofá. | N | | |
 | O | Exercício pra coluna? "Que preguiça. Eu quero é aproveitar a vida." | N | | |
 | I | Pois é. E a lombar dura tá roubando justamente a parte boa. | Z | Lombar dura / *rouba a parte boa* | Pacote 09 |
 | N | E se o exercício fosse a própria brincadeira? | N | | |
@@ -169,6 +173,7 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Seu pescoço não vira. Quem olha o retrovisor é o tronco. | Z | Na tela: **Pescoço travado no volante** | Abertura: Motorista girando o tronco inteiro |
 | S | Sete da noite. Você sai do escritório depois de dez horas de tela. | Z | | Apoio: estacionamento à noite |
 | P | No trânsito, pra trocar de faixa, vira o tronco inteiro, porque o pescoço não vai. E a dor sobe da nuca pra cabeça. | N | | Apoio: giro de tronco no carro |
 | P | Em casa, nem o jantar tem graça. Você só quer apagar a luz. | N | | |
@@ -192,6 +197,7 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Ondas de choque no joelho: os números, inclusive onde não funcionam. | Z | Na tela: **Ondas de choque funcionam?** | Abertura: Aplicador ligando, com o som do aparelho |
 | S | A horta sempre foi o seu canto. O cheiro de terra molhada, a couve que você mesmo plantou. | Z | | Apoio: mãos na terra |
 | P | Agora você cuida dela de pé, curvado, porque ajoelhar não dá mais. E cada canteiro fica pela metade. | N | | |
 | O | Você já ouviu falar de tratamento. Mas pensa: "tem muita promessa por aí. Eu só faço o que for comprovado". | N | | |
@@ -215,6 +221,7 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | O banco do parque conhece a sua dor melhor que a sua família. | Z | Na tela: **Quem fica "olhando as bolsas"** | Abertura: Bolsas no colo, família se afastando |
 | S | Domingo no parque. A família vai na frente, rindo, e você fica no banco, "olhando as bolsas". | Z | | Apoio: banco, família ao fundo |
 | P | Você conhece cada banco do caminho. Sabe onde dá pra parar sem ninguém perceber. E na volta, o joelho incha e a noite é de gelo no sofá. | N | | |
 | P | O pior nem é a dor. É ver a vida passando a vinte metros de você. | Z | | |
@@ -241,6 +248,7 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Dormir mal hoje aumenta a dor de amanhã. | Z | Na tela: **Acordou travado?** | Abertura: Despertador tocando, mão indo pra nuca |
 | S | Seis da manhã. O despertador toca e o pescoço já acorda travado. | Z | | Apoio: despertador |
 | P | Você levanta assim mesmo, gira o corpo inteiro pra olhar pro lado, e segue. | N | | |
 | O | "Dor? Eu aguento." | Z | | |
@@ -261,8 +269,9 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Estacionamento do mercado. Você roda duas vezes procurando a vaga da ponta, a mais larga. | Z | | Apoio: carro procurando vaga |
-| P | Porque sair do carro virou um ritual: gira as pernas pra fora, apoia na porta, conta até três, e levanta. | N | | Apoio: saída em três tempos |
+| G | Um saco plástico no banco do carro. Parece bobagem, mas tem lógica. | Z | Na tela: **O truque do saco plástico** | Abertura: Saco plástico sendo colocado no banco |
+| S | Mercado. Você roda duas vezes atrás da vaga mais larga. | Z | | Apoio: carro procurando vaga |
+| P | Porque sair do carro virou ritual: pernas pra fora, apoio na porta, e levanta. | N | | Apoio: saída em três tempos |
 | O | E antes de qualquer tratamento, você quer entender: "qual é a lógica disso?" | N | | |
 | A | Boa pergunta. Tratamento bom aguenta ser explicado. | Z | Tratamento bom / *aguenta perguntas* | |
 | P | A lógica do problema: o quadril com artrose não gosta de dobrar e girar ao mesmo tempo. Que é exatamente o movimento do carro. | N | | Pacote 03 |
@@ -285,8 +294,9 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Estrada pra praia, família animada no carro. | Z | | Apoio: estrada |
-| P | E você pedindo parada a cada hora, descendo torto, levando uns minutos pra endireitar. | N | | Pacote 11 |
+| G | Agulha de acupuntura do lado de uma de injeção. Olha a diferença. | Z | Na tela: **Medo de agulha? Compara** | Abertura: As duas agulhas lado a lado, em close |
+| S | Estrada pra praia. | Z | | Apoio: estrada |
+| P | E você pedindo parada a cada hora, descendo torto. | N | | Pacote 11 |
 | O | Já te falaram de neuroacupuntura. Mas vem o receio: "agulha? E se doer?" | N | | |
 | I | O receio é justo. Só que, enquanto ele decide, quem manda na viagem é a dor. | Z | | |
 | T | As agulhas são finíssimas, mais finas que as de injeção. A maioria sente só uma pressão leve. E tudo é explicado antes. | N | Agulha / *finíssima* | Apoio: agulha ao lado de uma seringa |
@@ -305,6 +315,7 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | PRP no quadril: a resposta honesta é menos animadora do que no joelho. | Z | Na tela: **PRP no quadril funciona?** | Abertura: Médico segurando um tubo de PRP |
 | S | Casamento da sobrinha. A banda começa aquela música que você dançava com todo mundo. | Z | | Apoio: banda, pista |
 | S | A pista enche. E você fica na mesa, segurando o copo, dizendo que tá cansado. | N | | |
 | P | O pé até bate no ritmo, embaixo da mesa. Mas você sabe: se girar o quadril, a virilha cobra a noite inteira. | N | | Apoio: pé batendo |
@@ -331,6 +342,7 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | O braço que trava no meio do varal tem explicação. | Z | Na tela: **Dor ao levantar o braço** | Abertura: Braço parando no varal, imagem congelada |
 | S | Segunda de manhã. A máquina apita, e o cesto com a roupa da casa inteira te espera. | Z | | Apoio: cesto cheio |
 | P | Você estende peça por peça. Mas o braço para no meio do caminho, e vem uma dor fina lá no alto do ombro. Troca de mão, alterna, termina na raça. | N | | Apoio: braço parando no varal |
 | O | Quando alguém sugere tratar: "que nada, tem tanta coisa pra fazer em casa". | N | | |
@@ -352,6 +364,7 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | Exossomo pra cartilagem: o que o anúncio não conta. | Z | Na tela: **Exossomo: promessa x pesquisa** | Abertura: Celular com anúncio genérico, sem marca |
 | S | Onze da noite, você rolando o feed, e aparece o anúncio: "exossomos, cartilagem nova". | Z | | Apoio: celular rolando anúncios |
 | P | E o seu joelho, que doeu o dia inteiro, quase responde sozinho. | N | | |
 | O | Você pensa: "é isso. Quero o mais moderno, quero resolver logo". | Z | | |
@@ -376,8 +389,9 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
-| S | Sala de espera. Alguém comenta: "agora tem um gel que fica no joelho por anos". | Z | | Apoio: sala de espera |
-| P | Você, com o joelho doendo desde cedo, fica de ouvido em pé. | N | | |
+| G | Gel que fica anos no joelho. Veja o que o único estudo comparativo achou. | Z | Na tela: **Gel no joelho funciona?** | Abertura: Seringa fechada ao lado de um modelo de joelho |
+| S | Sala de espera. Alguém comenta: "tem um gel que fica no joelho por anos". | Z | | Apoio: sala de espera |
+| P | Você, com o joelho doendo, fica de ouvido em pé. | N | | |
 | O | E pensa logo: "mas qual é a evidência?" | N | | |
 | A | Pergunta certa. | Z | | |
 | T | Uma revisão de 2026 sobre o hidrogel de poliacrilamida viu melhora em séries de casos. Mas o único estudo randomizado não mostrou diferença em relação ao ácido hialurônico. | N | Comparado / *com o quê?* | Cartão: Farhan-Alanie 2026 |
@@ -398,6 +412,7 @@ Dr. Rodrigo Faria · versão 3 · 15/10/2026
 
 | Bloco | Fala | Enq. | Destaque | Tela dividida |
 |---|---|---|---|---|
+| G | O seu peso pode estar doendo na sua mão. | Z | Na tela: **Peso e dor na MÃO?** | Abertura: Mão girando a tampa do pote, sem sucesso |
 | S | Jantar em casa. Você pega o pote de azeitona, gira a tampa, e nada. | Z | | Apoio: mão girando a tampa |
 | P | Tenta de novo, com o pano de prato. A mão dói, os dedos travam. E você passa o pote pra outra pessoa, como quem não quer nada. | N | | |
 | O | Sobre o peso, a frase é conhecida: "segunda-feira eu começo". Já foram várias segundas. | N | | |
