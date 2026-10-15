@@ -92,6 +92,6 @@ Nenhum gancho garante retenção; quem decide é o público. Depois de publicar,
 
 - **Retenção nos 3 primeiros segundos:** se mais da metade sai antes de 3 s, o gancho falhou.
 - **Taxa de visualização completa** e **salvamentos:** dizem se o miolo do vídeo segurou e foi útil.
-- **Teste A/B:** o Instagram permite testar até 4 versões de abertura no mesmo Reels ("Testar opções"). Vale gravar dois ganchos para os vídeos mais importantes e deixar o público escolher.
+- **Teste de gancho:** para os vídeos mais importantes, grave duas aberturas. O Instagram tem os "Reels de teste", que mostram o vídeo primeiro para quem ainda não segue você; publique uma versão assim e compare a retenção antes de escolher qual vai para o perfil.
 
 Depois de umas 10 publicações, dá pra ver quais tipos de gancho funcionam melhor com o seu público e repetir esses.
